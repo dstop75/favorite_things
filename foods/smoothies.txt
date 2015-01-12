@@ -2,3 +2,5 @@ banana
 pineapple
 frog
 lizard
+berry
+cherry
