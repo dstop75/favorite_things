@@ -1,2 +1,4 @@
 banana
 pineapple
+frog
+lizard
